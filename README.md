@@ -1,2 +1,2 @@
-# Maze_Generator
-Generates a maze based on user imput
+# Creations
+all of my creations stored in one place
